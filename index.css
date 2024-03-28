@@ -1,0 +1,26 @@
+img{
+    width: 200px;
+    height: 200px;
+    border: 10px;
+    border-color:black;
+}
+
+body{
+    background-color:rgb(207, 207, 200);
+}
+
+.cadeado{
+    width: 300px;
+    height: 300px;
+
+}
+
+.senha{
+    display: flex;
+    gap: 50px;
+}
+
+.pagina02{
+    width: 300px;
+    height: 300px;
+}
